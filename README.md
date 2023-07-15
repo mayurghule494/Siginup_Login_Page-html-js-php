@@ -1,11 +1,8 @@
-# html-js-php-siginup
+# HTML-JavaScript-php-Signup-Login page
 In this project we are Dockerizing Siginup and Login Form using HTML CSS JAVASCRIPT and PHP with MySql Database
-
 
 ✅ 
 # Dockerizing_Signup_Login_Page
-
-
 
 # Project Overview
 
