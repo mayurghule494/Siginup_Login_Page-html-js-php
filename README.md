@@ -26,7 +26,7 @@ In this project we are Dockerizing Siginup and Login Form using HTML CSS JAVASCR
 ✅ Steps :-
 - Launch EC2 Instance with Ubuntu OS.<br>
 - Connect to the instance with SSH.<br>
-- Update the packeages using below command. <br>
+- Update the packages using below command. <br>
   ##### $ sudo apt-get update -y <br>
 - Now Install Docker on the server using below command. <br>
   ##### $ sudo apt-get install docker.io -y <br>
